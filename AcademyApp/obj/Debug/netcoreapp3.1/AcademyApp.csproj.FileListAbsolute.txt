@@ -1,0 +1,16 @@
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfo.cs
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.exe
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.deps.json
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.json
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.dll
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.pdb
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.dll
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.pdb
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CopyComplete
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.dll
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.pdb
+C:\Users\APIS\Desktop\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.genruntimeconfig.cache

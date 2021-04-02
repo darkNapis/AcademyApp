@@ -1,0 +1,9 @@
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp3.1\SubjectServices.deps.json
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp3.1\SubjectServices.dll
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp3.1\SubjectServices.pdb
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.AssemblyInfo.cs
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.dll
+C:\Users\APIS\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp3.1\SubjectServices.pdb
